@@ -1,4 +1,4 @@
-## 🧪 Matriz de Pruebas
+## Matriz de Pruebas
 
 | # | Clase de Equivalencia / Valor Límite | Entrada (`Person`) | Resultado Esperado | Test que lo cubre |
 |---|--------------------------------------|--------------------|--------------------|-------------------|
