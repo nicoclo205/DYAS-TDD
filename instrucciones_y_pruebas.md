@@ -25,7 +25,7 @@ Para compilar el proyecto y ejecutar todas las pruebas unitarias, usa los siguie
 
 ```bash
 mvn clean test
-
+```
 ### Antes de corregir el código principal
 ![alt text](image-1.png)
 
