@@ -49,7 +49,7 @@ public class Registry {
         if (!p.isAlive()) {
             return RegisterResult.INVALID;
         }
-
+        
         if (isPersonRegistered(p.getId())){
             return RegisterResult.DUPLICATED;
         }
